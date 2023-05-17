@@ -58,6 +58,18 @@ export const robots = [
         name:'Sharp Dwayne',
         username:'SharpD',
         email:'sharp.april@blitz'
+    },
+    {
+        id:11,
+        name:'Edith Bebe',
+        username:'FreshEdith',
+        email:'fresh.edith@blitz'
+    },
+    {
+        id:12,
+        name:'Gloria Bebz',
+        username:'BestFashion',
+        email:'Best_Fashion@blitz'
     }
 ]
 
